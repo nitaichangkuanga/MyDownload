@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDownload</string>
+    <string name="address">请输入下载的地址</string>
+    <string name="download">下载</string>
+</resources>
